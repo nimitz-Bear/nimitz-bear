@@ -2,7 +2,6 @@
 ---
 - Computer science student at the University of Nottingham. I'm interested in coding, mostly in OOP languages.
 - I also enjoy reading/watching content from sci-fi and fantasy franchises.
-- Am currently learning Flutter
 - To learn more about me, have a look at my [website](https://isaacdestura.dev)
 
   

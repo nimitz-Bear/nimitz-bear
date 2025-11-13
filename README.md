@@ -1,9 +1,6 @@
 # 👋 Hello There, I'm Isaac
 ---
-- I'm interested in coding, mostly in OOP languages.
-- I also enjoy reading/watching content from sci-fi and fantasy franchises.
-- To learn more about me, have a look at my [website](https://isaacdestura.dev)
-
+- I sometimes write code for fun, and you can see some of my personal projects here
   
   
 <h3 align="left">Languages and Tools:</h3>
